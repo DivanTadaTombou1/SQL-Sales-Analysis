@@ -1,8 +1,5 @@
 # SQL-Sales-Analysis
 
-
-## Business Problem Statement:
-
 ## Department: Sales and Marketing
 
 The Sales and Marketing department of our organization is facing challenges in analyzing sales data effectively to identify top-selling products and top-spending customers. Without a comprehensive understanding of sales performance, the department struggles to make informed decisions regarding marketing strategies, inventory management, and customer engagement initiatives.
