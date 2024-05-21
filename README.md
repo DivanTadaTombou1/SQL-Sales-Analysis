@@ -1,5 +1,22 @@
 # SQL-Sales-Analysis
 
+
+## Business Problem Statement:
+
+## Department: Sales and Marketing
+
+The Sales and Marketing department of our organization is facing challenges in analyzing sales data effectively to identify top-selling products and top-spending customers. Without a comprehensive understanding of sales performance, the department struggles to make informed decisions regarding marketing strategies, inventory management, and customer engagement initiatives.
+
+To address this issue, I aim to develop a SQL-based data analytics project that will analyze sales data from various sources and generate actionable insights for the Sales and Marketing department. The project will leverage  SQL techniques, including common table expressions (CTEs), window functions, and optimizations, to perform in-depth analysis of sales data.
+
+### The key objectives of the project are as follows:
+
+1. Identify the top-selling products for each month, considering factors such as total sales volume and revenue generated.
+2. Determine the top-spending customers for each month, based on their total purchase amount and contribution to overall sales.
+3. Rank products and customers within each month to prioritize marketing efforts and customer engagement strategies.
+4. Provide a user-friendly interface for querying and visualizing sales data, enabling stakeholders to explore insights and trends easily.
+
+
 ```sql
 
 WITH RECURSIVE monthly_sales AS (
